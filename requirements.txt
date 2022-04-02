@@ -1,0 +1,4 @@
+Django
+djangorestframework
+prometheus-client
+requests

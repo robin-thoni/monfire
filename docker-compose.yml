@@ -1,0 +1,8 @@
+version: '2.0'
+services:
+  monfire:
+    build: .
+    ports:
+      - '0.0.0.0:8000:8000'
+    env_file:
+      - .env
